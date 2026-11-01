@@ -41,44 +41,14 @@
 <div align="center">
 
 **◆ LANGUAGES**<br/>
-<img src="https://skillicons.dev/icons?i=py,c,cpp,js,html,css" alt="languages"/>
+<a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=py" height="48" alt="Python"/></a>&nbsp;
+<a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" height="48" alt="C"/></a>&nbsp;
+<a href="https://isocpp.org"><img src="https://skillicons.dev/icons?i=cpp" height="48" alt="C++"/></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript"/></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML"/></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="48" alt="CSS"/></a>
+
+<br/>
 
 **◆ AI · ML · DATA**<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,numpy,pandas,jupyter" alt="ai ml data"/>
-
-**◆ TOOLS**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="tools"/>
-
-</div>
-
-## 📡 Skills Loading...
-
-<img src="https://raw.githubusercontent.com/aditichoudhary9929/aditichoudhary9929/main/assets/skills.svg" alt="Skills" width="100%"/>
-
-## 🚀 Projects
-
-| Project | Stack | What it is |
-|---|---|---|
-| **[srm-campus-route-planner](https://github.com/aditichoudhary9929/srm-campus-route-planner)** | C, Graphs, Web UI | SRM IST Delhi-NCR campus route planner and navigator: graph DSA engine with Dijkstra, Min-Heap, Trie autocomplete and an interactive web UI |
-
-<!-- Add more rows as you build ML projects, for example:
-| **[project-name](https://github.com/aditichoudhary9929/project-name)** | Python, scikit-learn | one-line description |
--->
-
-## 📊 Metrics
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=aditichoudhary9929&theme=radical&hide_border=false" alt="GitHub streak"/>
-
-</div>
-
-## 📈 Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aditichoudhary9929&theme=dracula&hide_border=true&area=true" alt="Contribution graph" width="100%"/>
-
-<div align="center">
-
-*Learn deeply. Build consistently.*
-
-</div>
+<a href="https://www.tensorflow.org"><img
