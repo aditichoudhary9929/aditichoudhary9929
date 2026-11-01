@@ -1,0 +1,35 @@
+<svg width="1000" height="400" viewBox="0 0 1000 400" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    text { font-family: 'Courier New', Courier, monospace; font-size: 20px; }
+    .k { fill: #ffffff; font-weight: 700; }
+    .v { fill: #a99cc4; }
+    .i { fill: #a99cc4; font-style: italic; }
+    .g { fill: #00e5ff; }
+    .line { stroke: #231c3d; stroke-width: 1; }
+  </style>
+  <rect x="2" y="2" width="996" height="396" rx="22" fill="#130f24" stroke="#2a2147" stroke-width="2"/>
+  <rect x="2" y="30" width="6" height="340" fill="#b47cff"/>
+
+  <text class="k" x="50" y="62">🎓 Education</text>
+  <text class="v" x="340" y="62">B.Tech CSE (AI &amp; ML) · SRM IST, NCR Campus</text>
+  <line class="line" x1="40" y1="85" x2="960" y2="85"/>
+
+  <text class="k" x="50" y="127">📍 Location</text>
+  <text class="v" x="340" y="127">Delhi-NCR · IN</text>
+  <line class="line" x1="40" y1="150" x2="960" y2="150"/>
+
+  <text class="k" x="50" y="192">⚡ Status</text>
+  <text class="v" x="340" y="192">Training models, solving problems, shipping projects</text>
+  <line class="line" x1="40" y1="215" x2="960" y2="215"/>
+
+  <text class="k" x="50" y="257">💭 Philosophy</text>
+  <text class="i" x="340" y="257">Learn deeply. Build consistently.</text>
+  <line class="line" x1="40" y1="280" x2="960" y2="280"/>
+
+  <text class="k" x="50" y="322">🎯 Goal</text>
+  <text class="v" x="340" y="322">Aspiring AI/ML Engineer</text>
+  <line class="line" x1="40" y1="345" x2="960" y2="345"/>
+
+  <text class="k" x="50" y="380">🧪 Fuel</text>
+  <text class="g" x="340" y="380">while(true) { learn(); train(); deploy(); }</text>
+</svg>
