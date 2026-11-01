@@ -1,0 +1,49 @@
+<svg width="1000" height="360" viewBox="0 0 1000 360" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    text { font-family: 'Courier New', Courier, monospace; font-size: 18px; }
+    .head { fill: #8b7fb0; font-size: 15px; letter-spacing: 2px; }
+    .port { fill: #00e5ff; }
+    .svc  { fill: #ffffff; }
+    .tgt  { fill: #ffffff; }
+    .pct  { fill: #c9a0ff; font-weight: 700; }
+    .track { fill: #1e1836; }
+    .bar  { fill: #c9a0ff; transform-box: fill-box; transform-origin: left; animation: grow 2s ease-out forwards; }
+    @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+  </style>
+  <rect x="2" y="2" width="996" height="356" rx="22" fill="#130f24" stroke="#2a2147" stroke-width="2"/>
+  <text class="head" x="40" y="45">TRAINING IN PROGRESS — SKILLS LOADING</text>
+  <line x1="40" y1="60" x2="960" y2="60" stroke="#231c3d"/>
+  <text class="head" x="40"  y="90">EPOCH</text>
+  <text class="head" x="140" y="90">MODULE</text>
+  <text class="head" x="400" y="90">TARGET</text>
+  <text class="head" x="640" y="90">PROGRESS</text>
+
+  <!-- EDIT: bar width = percent * 2 (track is 200 wide) -->
+  <text class="port" x="40"  y="145">[01]</text>
+  <text class="svc"  x="140" y="145">python-core</text>
+  <text class="tgt"  x="400" y="145">Python + NumPy + Pandas</text>
+  <rect class="track" x="640" y="128" width="200" height="22" rx="4"/>
+  <rect class="bar"   x="640" y="128" width="170" height="22" rx="4"/>
+  <text class="pct"  x="860" y="146">85%</text>
+
+  <text class="port" x="40"  y="200">[02]</text>
+  <text class="svc"  x="140" y="200">machine-learning</text>
+  <text class="tgt"  x="400" y="200">Scikit-learn + Models</text>
+  <rect class="track" x="640" y="183" width="200" height="22" rx="4"/>
+  <rect class="bar"   x="640" y="183" width="140" height="22" rx="4"/>
+  <text class="pct"  x="860" y="201">70%</text>
+
+  <text class="port" x="40"  y="255">[03]</text>
+  <text class="svc"  x="140" y="255">deep-learning</text>
+  <text class="tgt"  x="400" y="255">TensorFlow / PyTorch</text>
+  <rect class="track" x="640" y="238" width="200" height="22" rx="4"/>
+  <rect class="bar"   x="640" y="238" width="110" height="22" rx="4"/>
+  <text class="pct"  x="860" y="256">55%</text>
+
+  <text class="port" x="40"  y="310">[04]</text>
+  <text class="svc"  x="140" y="310">dsa-engine</text>
+  <text class="tgt"  x="400" y="310">C + Graphs + Heaps + Trie</text>
+  <rect class="track" x="640" y="293" width="200" height="22" rx="4"/>
+  <rect class="bar"   x="640" y="293" width="130" height="22" rx="4"/>
+  <text class="pct"  x="860" y="311">65%</text>
+</svg>
