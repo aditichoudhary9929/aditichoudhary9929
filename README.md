@@ -11,7 +11,7 @@
 <br/>
 
 <a href="https://github.com/aditichoudhary9929"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/aditi-choudhary2007/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <img src="https://img.shields.io/github/followers/aditichoudhary9929?style=for-the-badge&logo=github&label=FOLLOWERS&color=7c3aed&labelColor=555" alt="Followers"/>
 <img src="https://komarev.com/ghpvc/?username=aditichoudhary9929&style=for-the-badge&label=VISITORS&color=7c3aed" alt="Visitors"/>
 
